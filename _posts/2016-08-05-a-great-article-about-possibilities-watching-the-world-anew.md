@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A great article about possibilities watching the world anew!
-datePublished: '2016-08-05T18:05:50.558Z'
-dateModified: '2016-08-05T18:04:58.142Z'
+datePublished: '2016-08-05T18:07:12.560Z'
+dateModified: '2016-08-05T18:05:54.493Z'
 title: ''
 author: []
 via: {}
